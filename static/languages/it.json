@@ -1,13 +1,11 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quante persone vivono in case recentemente ristrutturate?",
+  "subtitle": "In media, circa un quarto delle persone nell'UE vive in case che sono state ristrutturate per renderle più efficienti dal punto di vista energetico.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "I dati relativi alla Germania sono poco affidabili.\nL'efficienza energetica è migliorata negli ultimi 5 anni, principalmente grazie al miglioramento dell'isolamento termico di pareti esterne, tetti o pavimenti; alla sostituzione di finestre con vetro singolo con vetri doppi o tripli; e all'installazione di sistemi di riscaldamento più efficienti.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
   "tooltipExtraInfoLabel": "clicca qui"
 }
