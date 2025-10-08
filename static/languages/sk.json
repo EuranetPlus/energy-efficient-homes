@@ -1,13 +1,11 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Koľko ľudí býva v domoch, ktoré boli nedávno zrekonštruované?",
+  "subtitle": "V priemere približne štvrtina ľudí v EÚ žije v domoch, ktoré boli zrekonštruované s cieľom zvýšiť ich energetickú účinnosť.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Údaje o Nemecku majú nízku spoľahlivosť.\nEnergetická účinnosť sa za posledných 5 rokov zlepšila, najmä modernizáciou tepelnej izolácie vonkajších stien, striech alebo podláh; výmenou okien s jednoduchým zasklením za dvojité alebo trojité zasklenie; a inštaláciou účinnejších vykurovacích systémov.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
