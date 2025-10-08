@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel mensen wonen in huizen die onlangs zijn gerenoveerd?",
+  "subtitle": "Gemiddeld woont ongeveer een kwart van de mensen in de EU in huizen die zijn verbeterd om ze energiezuiniger te maken.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De gegevens over Duitsland zijn weinig betrouwbaar.\nDe energie-efficiëntie is de afgelopen vijf jaar verbeterd, voornamelijk door het verbeteren van de thermische isolatie van buitenmuren, daken en vloeren; het vervangen van enkel glas door dubbel of driedubbel glas; en de installatie van efficiëntere verwarmingssystemen.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
