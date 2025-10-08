@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuántas personas viven en casas que han sido renovadas recientemente?",
+  "subtitle": "En promedio, aproximadamente una cuarta parte de la gente en la UE vive en hogares que han sido mejorados para hacerlos más eficientes energéticamente.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Los datos sobre Alemania presentan una baja fiabilidad.\nLa eficiencia energética ha mejorado en los últimos cinco años, principalmente mediante la mejora del aislamiento térmico en paredes exteriores, techos y suelos; la sustitución de ventanas de cristal simple por unidades de doble o triple acristalamiento; y la instalación de sistemas de calefacción más eficientes.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
