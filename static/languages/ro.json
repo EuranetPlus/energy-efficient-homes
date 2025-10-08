@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Câți oameni locuiesc în case care au fost recent renovate?",
+  "subtitle": "În medie, aproximativ un sfert dintre locuitorii UE locuiesc în locuințe care au fost îmbunătățite pentru a fi mai eficiente din punct de vedere energetic.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Datele privind Germania au o fiabilitate scăzută.\nEficiența energetică a fost îmbunătățită în ultimii 5 ani, în principal prin modernizarea izolației termice a pereților exteriori, acoperișurilor sau podelelor; înlocuirea ferestrelor cu geam simplu cu unități cu geam termopan sau triplu; și instalarea unor sisteme de încălzire mai eficiente.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
