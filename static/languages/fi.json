@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka moni asuu taloissa, jotka on äskettäin remontoitu?",
+  "subtitle": "Keskimäärin noin neljännes EU:n väestöstä asuu kodeissa, joita on parannettu energiatehokkaammiksi.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Saksan tietojen luotettavuus on heikko.\n\nEnergiatehokkuutta on parannettu viimeisten viiden vuoden aikana pääasiassa parantamalla ulkoseinien, kattojen tai lattioiden lämmöneristystä, vaihtamalla yksikerroksiset ikkunat kaksi- tai kolminkertaisiin ikkunoihin ja asentamalla tehokkaampia lämmitysjärjestelmiä.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
