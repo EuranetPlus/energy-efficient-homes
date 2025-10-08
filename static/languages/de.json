@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viele Menschen leben in Häusern, die kürzlich renoviert wurden?",
+  "subtitle": "Durchschnittlich lebt etwa ein Viertel der Menschen in der EU in Häusern, die energieeffizienter gestaltet wurden.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Daten für Deutschland sind wenig zuverlässig.\nDie Energieeffizienz wurde in den letzten fünf Jahren hauptsächlich durch die Verbesserung der Wärmedämmung von Außenwänden, Dächern und Böden, den Austausch von einfach verglasten Fenstern durch Doppel- oder Dreifachverglasung und die Installation effizienterer Heizsysteme verbessert.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
