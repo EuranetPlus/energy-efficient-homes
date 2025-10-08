@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm nies jgħixu fi djar li ġew irranġati dan l-aħħar?",
+  "subtitle": "Bħala medja, madwar kwart tan-nies fl-UE jgħixu fi djar li ġew imtejba biex isiru aktar effiċjenti fl-enerġija.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Id-dejta dwar il-Ġermanja għandha affidabbiltà baxxa.\nL-effiċjenza enerġetika tjiebet fl-aħħar 5 snin, prinċipalment permezz tat-titjib tal-insulazzjoni termali fil-ħitan esterni, fis-soqfa, jew fl-art; is-sostituzzjoni tat-twieqi b'ħġieġ wieħed b'unitajiet b'ħġieġ doppju jew triplu; u l-installazzjoni ta' sistemi ta' tisħin aktar effiċjenti.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
