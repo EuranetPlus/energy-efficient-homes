@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad duine atá ina gcónaí i dtithe atá athchóirithe le déanaí?",
+  "subtitle": "Ar an meán, tá thart ar cheathrú de mhuintir an AE ina gcónaí i dtithe atá feabhsaithe chun iad a dhéanamh níos éifeachtúla ó thaobh fuinnimh de.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Tá iontaofacht íseal ag baint leis na sonraí ar an nGearmáin.\nTá feabhas tagtha ar éifeachtúlacht fuinnimh le 5 bliana anuas, go príomha trí uasghrádú a dhéanamh ar insliú teirmeach i mballaí seachtracha, i ndíonta nó in urláir; trí fhuinneoga aonghloinithe a athsholáthar le haonaid dhúbailte nó tríghloinithe; agus trí chórais téimh níos éifeachtaí a shuiteáil.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
