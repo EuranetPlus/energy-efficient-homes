@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko ljudi živi u kućama koje su nedavno renovirane?",
+  "subtitle": "U prosjeku, oko četvrtine ljudi u EU živi u domovima koji su poboljšani kako bi postali energetski učinkovitiji.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Podaci o Njemačkoj imaju nisku pouzdanost.\nEnergetska učinkovitost poboljšana je u posljednjih 5 godina, uglavnom nadogradnjom toplinske izolacije vanjskih zidova, krovova ili podova; zamjenom prozora s jednim ostakljenjem dvostrukim ili trostrukim ostakljenjem; te ugradnjom učinkovitijih sustava grijanja.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
